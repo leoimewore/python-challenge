@@ -1,0 +1,6 @@
+Total number of months: 86 months
+Net total amount: $38382578
+Net Average change Profit/losses: $-2315.1176470588234
+Greatest increase in profit: $1926159
+Greatest decrease in profit: $-2196167
+PS C:\Users\leoim\python-challenge\PyBank>
